@@ -4,7 +4,7 @@ An interactive Streamlit application that transforms YouTube videos into convers
 
 # Demo
 
-[![Demo](./demo.gif)](./demo.mp4)
+[![Demo](./DEMO.gif)](./DEMO.mp4)
 
 ## 🌟 What Makes This Special
 
