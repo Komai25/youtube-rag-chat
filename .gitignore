@@ -48,7 +48,6 @@ Thumbs.db
 processed_videos/
 temp_audio_*
 *.mp3
-*.mp4
 *.wav
 *.part
 transcription.txt
