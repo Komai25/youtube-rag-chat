@@ -2,6 +2,10 @@
 
 An interactive Streamlit application that transforms YouTube videos into conversational AI experiences. Simply paste a YouTube URL, and start having intelligent conversations about the video content using Retrieval Augmented Generation (RAG) technology.
 
+# Demo
+
+[![Demo](./DEMO.gif)](./DEMO.MOV)
+
 ## 🌟 What Makes This Special
 
 This application combines several cutting-edge AI technologies to create a seamless experience:
